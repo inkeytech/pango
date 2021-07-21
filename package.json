@@ -1,0 +1,29 @@
+{
+  "name": "pango",
+  "version": "1.0.0",
+  "description": "Back end workflow middleware framework for Node. js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inkeytech/pango.git"
+  },
+  "keywords": [
+    "nodejs",
+    "middleware",
+    "workflow",
+    "framework",
+    "microservice",
+    "back-end",
+    "extensible",
+    "self-documenting"
+  ],
+  "author": "Ian Watson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inkeytech/pango/issues"
+  },
+  "homepage": "https://github.com/inkeytech/pango#readme"
+}
